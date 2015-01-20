@@ -86,7 +86,7 @@ body {
 	max-height: 50px;
 }
 
-.content {
+.prob-content {
 	overflow: hidden;
 	margin: 3% 4% 3% 4%;
 	display: block;
@@ -94,7 +94,7 @@ body {
 	min-width: 1300px;  /*content will not move on next line on window resizing*/
 }
 
-.content div {
+.prob-content div {
 	display: inline-block;
 	width: 30%;
 	margin: 0px 15px 0 auto;
@@ -107,14 +107,14 @@ body {
 	border-radius: 5px;
 }
 
-.content h3 {
+.prob-content h3 {
 	font-size: 1.2em;
 	line-height: 0.5em;
 	color: #4A4B4C;
 	text-align: center;	
 }
 
-.content h5 {
+.prob-content h5 {
 	font-size: 0.9em;
 	line-height: 1.2em;
 	color: #9E3D54;
@@ -122,25 +122,12 @@ body {
 	border-bottom: 1px solid #ECEBD7;
 }
 
-.content p {
+.prob-content p, span, input {
 	font-size: 0.8em;
 	color: #4A4B4C;
 }
 
-.content input {
-	width: 98%;
-	margin: 10px auto 10px auto;
-	height: 40px;
-	font-size: 24px;
-	font-weight: bolder;
-	padding-left: 10px;
-	border: 1px solid #ECEBD7;
-	color: #9E3D54;
-	border-radius: 5px;
-
-}
-
-.content button {
+.prob-content button {
 	width: 100%;
 	margin: 10px auto 10px auto;
 	height: 50px;
@@ -151,11 +138,11 @@ body {
 	border: 2px solid #ECEBD7;
 }
 
-.content button:hover {
+.prob-content button:hover {
 	border: 3px solid #4A4B4C;
 }
 
-.content button:active {
+.prob-content button:active {
 	background-color: #84404E;
 }
 
