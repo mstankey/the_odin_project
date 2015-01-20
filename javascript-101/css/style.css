@@ -146,16 +146,7 @@ body {
 	background-color: #84404E;
 }
 
-.content .result {
-	width: 96.5%;
-	margin-top: 20px;
-	height: 80px;
-	padding-top: 0px;
-	padding-bottom: 20px;
-
-}
-
-.content h2 {
+.prob-content h2 {
 	font-size: 3em;
 	font-weight: bolder;
 	line-height: 0.5em;
