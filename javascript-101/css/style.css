@@ -153,3 +153,9 @@ body {
 	color: #9E3D54;
 	text-align: center;
 }
+
+.output {
+	font-size: 0.8em;
+	color: #4A4B4C;
+	font-weight: bolder;
+}
