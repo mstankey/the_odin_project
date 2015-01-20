@@ -1,0 +1,177 @@
+body {
+	background-color: #F1F1E4;
+	margin: 0px; 
+	padding: 0px;
+	font-family: arial;
+	min-width: 1300px;
+}
+
+#github {
+
+	position: relative;
+	background-color: #4A4B4C;
+	height: 20px;
+	width: 100%;
+	display: block;
+	width:100%;
+}
+
+#github img {
+	max-height: 20px;
+	float:right;
+	margin:auto;
+	padding-right: 4%;
+}
+
+#github p {
+	color: #F1F1E4;
+	font-size: 0.8em;
+	float: right;
+	margin: auto;
+	padding-right: 10px;
+}
+
+#github p:hover {
+	text-decoration: underline;
+}
+
+.top_bar {
+	height: 50px;
+	background-color: #9E3D54;
+	overflow: hidden;
+	border-bottom: 1px solid #4A4B4C;
+	padding: 1% 2% 1% 2%;
+	display: block;
+	position: relative;
+	width: 96%;
+	min-width: 900px;  /*content will not move on next line on window resizing*/
+}
+
+.top_bar h1 {
+	color: #F1F1E4;
+	font-size: 1.5em;
+	font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+.top_bar p {
+	color: #F1F1E4;
+	font-size: 0.8em;
+	text-align: center;
+    margin: auto;
+}
+
+#title {
+	float: left;
+	width: 60%;
+	margin: auto;
+
+}
+
+#euler {
+	float: left;
+	margin-left: 2%;
+
+}
+
+#odin {
+	float: right;
+	margin-right: 2%;
+
+
+}
+
+#odin img {
+	max-height: 50px;
+}
+
+.content {
+	overflow: hidden;
+	margin: 3% 4% 3% 4%;
+	display: block;
+	position: relative;
+	min-width: 1300px;  /*content will not move on next line on window resizing*/
+}
+
+.content div {
+	display: inline-block;
+	width: 30%;
+	margin: 0px 15px 0 auto;
+	border: 1px solid #ECEBD7;
+	border-bottom: 2px solid #ECEBD7;
+	border-right: 2px solid #ECEBD7;
+	background-color: #fff;
+	padding: 0px 10px 20px 10px;
+	text-align: justify;
+	border-radius: 5px;
+}
+
+.content h3 {
+	font-size: 1.2em;
+	line-height: 0.5em;
+	color: #4A4B4C;
+	text-align: center;	
+}
+
+.content h5 {
+	font-size: 0.9em;
+	line-height: 1.2em;
+	color: #9E3D54;
+	text-align: center;
+	border-bottom: 1px solid #ECEBD7;
+}
+
+.content p {
+	font-size: 0.8em;
+	color: #4A4B4C;
+}
+
+.content input {
+	width: 98%;
+	margin: 10px auto 10px auto;
+	height: 40px;
+	font-size: 24px;
+	font-weight: bolder;
+	padding-left: 10px;
+	border: 1px solid #ECEBD7;
+	color: #9E3D54;
+	border-radius: 5px;
+
+}
+
+.content button {
+	width: 100%;
+	margin: 10px auto 10px auto;
+	height: 50px;
+	font-size: 24px;
+	color: #F1F1E4;
+	border-radius: 5px;
+	background-color: #9E3D54;
+	border: 2px solid #ECEBD7;
+}
+
+.content button:hover {
+	border: 3px solid #4A4B4C;
+}
+
+.content button:active {
+	background-color: #84404E;
+}
+
+.content .result {
+	width: 96.5%;
+	margin-top: 20px;
+	height: 80px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+
+}
+
+.content h2 {
+	font-size: 3em;
+	font-weight: bolder;
+	line-height: 0.5em;
+	color: #9E3D54;
+	text-align: center;
+}
