@@ -1,6 +1,6 @@
 # HTML/CSS: Build the Google.com homepage
 
-My implementation of Odin Projects HTML/CSS excerise.
+My code for The Odin Project's HTML/CSS exercise.
 
 Details:
 [http://theodinproject.com/](http://www.theodinproject.com/web-development-101/html-css?ref=lc-pb)

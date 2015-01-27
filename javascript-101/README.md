@@ -1,6 +1,6 @@
 # JavaScript 101: Euler Problems
 
-My implementation of Odin Projects JS excerise.
+My code for The Odin Project's JavaScript excerise.
 
 Details:
 [http://theodinproject.com/](http://www.theodinproject.com/web-development-101/javascript-basics)

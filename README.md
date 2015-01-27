@@ -1,6 +1,6 @@
 # The Odin Project
 
-My code for the Odin Project's excerises.
+My code for The Odin Project's exercises.
 
 Details:
 [http://theodinproject.com/](http://www.theodinproject.com/courses?ref=home)

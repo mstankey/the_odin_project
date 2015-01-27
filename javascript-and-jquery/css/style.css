@@ -1,0 +1,110 @@
+a:link {color:#fff;}      /* unvisited link */
+a:visited {color:#fff;}  /* visited link */
+a:hover {color:#d74b4b;}  /* mouse over link */
+a:active {color:#fff;}  /* selected link */
+
+body {
+	background-color: #F1F1E4;
+	margin: 0px; 
+	padding: 0px;
+	font-family: arial;
+	min-width: 1300px;
+}
+
+#github {
+	position: relative;
+	background-color: #4A4B4C;
+	height: 20px;
+	width: 100%;
+	display: block;
+	width:100%;
+}
+
+#github img {
+	max-height: 20px;
+	float:right;
+	margin:auto;
+	padding-right: 4%;
+}
+
+#github p {
+	color: #F1F1E4;
+	font-size: 0.8em;
+	float: right;
+	margin: auto;
+	padding-right: 10px;
+}
+
+#github p:hover {
+	text-decoration: underline;
+}
+
+.top_bar {
+	height: 50px;
+	background-color: #9E3D54;
+	overflow: hidden;
+	border-bottom: 1px solid #4A4B4C;
+	padding: 1% 2% 1% 2%;
+	display: block;
+	position: relative;
+	width: 96%;
+	min-width: 900px;  /*content will not move on next line on window resizing*/
+}
+
+.top_bar h1 {
+	color: #F1F1E4;
+	font-size: 1.5em;
+	font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+.top_bar p {
+	color: #F1F1E4;
+	font-size: 0.8em;
+	text-align: center;
+    margin: auto;
+}
+
+#title {
+	float: left;
+	width: 60%;
+	margin: auto;
+}
+
+#euler {
+	float: left;
+	margin-left: 2%;
+}
+
+#odin {
+	float: right;
+	margin-right: 2%;
+}
+
+#odin img {
+	max-height: 50px;
+}
+
+footer {
+	background-color: #9E3D54;
+	color: #dcddd8;
+	text-align: center;
+	margin: 10px;
+	clear: both;
+}
+
+#container {
+	max-width: 960px;
+	margin: auto;
+}
+
+.box {
+	background-color: #354b5e;
+    float: left;
+    box-sizing: border-box;
+}
+
+.simpleColor {
+	background-color: #d74b4b;
+}
