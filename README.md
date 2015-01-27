@@ -10,3 +10,5 @@ Projects/Exercises:
 [Google Homepage](https://github.com/mstankey/the_odin_project/tree/master/google-homepage)
 
 [Euler Problems](https://github.com/mstankey/the_odin_project/tree/master/javascript-101)
+
+[Sketchpad](https://github.com/mstankey/the_odin_project/tree/master/javascript-and-jquery)
