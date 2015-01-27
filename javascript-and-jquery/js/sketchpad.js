@@ -10,7 +10,7 @@ $(function() {
 	// Check the 'borders' checkbox; if checked, add css property for borders to be visible
 	var borderCheck = function() {
 		if ( checkbox$.is(':checked') ) {
-			boxes$.css('border', '1px dotted black');
+			boxes$.css('border', '1px dotted #4A4B4C');
 		} else {
 			//boxes$.css('border', 'none');
 			$("div.box").css('border', 'none');

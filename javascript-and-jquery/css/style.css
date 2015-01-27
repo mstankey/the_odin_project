@@ -100,11 +100,15 @@ footer {
 }
 
 .box {
-	background-color: #354b5e;
+	background-color: #9E3D54;
     float: left;
     box-sizing: border-box;
 }
 
 .simpleColor {
 	background-color: #d74b4b;
+}
+
+#instructions {
+	text-align: center;
 }
